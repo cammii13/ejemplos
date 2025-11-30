@@ -16,3 +16,5 @@ Inicializa el bus I2C y la pantalla SSD1306. Muestra mensajes de texto estático
 
 # rgbneopixel.py 
 Inicializa 3 LEDs NeoPixel en el Pin 4 y les asigna un color específico a cada uno confirmando su correcto funcionamiento.
+
+Cami
